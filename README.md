@@ -29,12 +29,12 @@ O Claude AI é um modelo de linguagem de inteligência artificial avançado, sim
 
 <figure>
   <img src="https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-19%20182125.png?alt=media&token=5f2f5720-4de2-43c2-88e1-f050a9350f13">
-  <figcaption>planilha original</figcaption>
+  <figcaption>figura 1</figcaption>
 </figure>
 
 <figure>
   <img src="https://firebasestorage.googleapis.com/v0/b/banco01-9e30b.appspot.com/o/repostorio_img%2FCaptura%20de%20tela%202024-12-19%20182212.png?alt=media&token=a910892f-2f57-4d98-96e8-c11da50b21b8">
-  <figcaption>planilha original</figcaption>
+  <figcaption>figura 2</figcaption>
 </figure>
 
 ## Observação os dados de cartão usados aqui são todos ficticios 😱
