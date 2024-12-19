@@ -37,7 +37,8 @@ O Claude AI é um modelo de linguagem de inteligência artificial avançado, sim
   <figcaption>planilha original</figcaption>
 </figure>
 
-## Observação os dados de cartão usados aqui são todos fictios 
+## Observação os dados de cartão usados aqui são todos ficticios 😱
+
 
 <p align="center"><a 
 href="https://github.com/antoniojose2023" target="_blank"><img alt="Github" 
