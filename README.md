@@ -2,7 +2,8 @@
 
 Olá, passando aqui para compartilhar mais uma resolução de desafio da DIO - Digital Innovation One, o desafio dessa vez é desenvolver uma classe para validação de cartão de crédito com a ajuda de IA -Inteligência Artificial. 
 
-O desafio foi resolvido com a utilização da Claude IA, usada para gerar o código de validação de cartão de crédito, através de prompts de comandos.
+O desafio foi resolvido com a utilização da Claude IA, usada para gerar o código de validação de cartão de crédito, através de prompts de comandos. Outra ferramenta utilizada foi o android studio ![HelloAndroidGIF (2)](https://github.com/user-attachments/assets/12561dac-44e5-4cd8-9353-dd4fc99e1380)
+
 
 # Ferramentas utilizadas: 
 
