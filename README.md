@@ -1,10 +1,12 @@
-# DashBoard inteligente com IA 💻
+# Aplicação mobile para validação de cartão de credito 💻
 
-De acordo com o desafio proposto pelo DIO - digital Innovation One em gerar dashboard a partir de planilha no excel, aceitei o desafio e me propôs a melhorar o processo de resolução do problema através de IA, assim ao invés de fazer a dashboard no excel usaremos de ferramenta de IA, para gerar dashboards inteligente a partir de prompt, ou seja através de linha de comandos em linguagem natural.
+Olá, passando aqui para compartilhar mais uma resolução de desafio da DIO - Digital Innovation One, o desafio dessa vez é desenvolver uma classe para validação de cartão de crédito com a ajuda de IA -Inteligência Artificial. 
+
+O desafio foi resolvido com a utilização da Claude IA, usada para gerar o código de validação de cartão de crédito, através de prompts de comandos.
 
 # Ferramentas utilizadas: 
 
-## Excel 🏆
+## Android Studio 🏆
 O Excel é um programa de planilhas eletrônicas que organiza dados em linhas e colunas, facilitando cálculos, análises e visualização de informações. Ele é amplamente utilizado para gerenciar orçamentos, criar gráficos, analisar dados financeiros e muito mais. Com o Excel, você pode automatizar tarefas, criar relatórios personalizados e tomar decisões mais informadas.
 
 ## Claude  🏆
