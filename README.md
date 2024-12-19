@@ -2,13 +2,22 @@
 
 Olá, passando aqui para compartilhar mais uma resolução de desafio da DIO - Digital Innovation One, o desafio dessa vez é desenvolver uma classe para validação de cartão de crédito com a ajuda de IA -Inteligência Artificial. 
 
-O desafio foi resolvido com a utilização da Claude IA, usada para gerar o código de validação de cartão de crédito, através de prompts de comandos. Outra ferramenta utilizada foi o android studio ![HelloAndroidGIF (2)](https://github.com/user-attachments/assets/12561dac-44e5-4cd8-9353-dd4fc99e1380)
+O desafio foi resolvido com a utilização da Claude IA, usada para gerar o código de validação de cartão de crédito, através de prompts de comandos. Outra ferramenta utilizada foi o android studio, junto com a linguagem kotlin, para assim gerar o app.
 
 
 # Ferramentas utilizadas: 
 
+
+## Linguagen koltin 🏆
+Kotlin é uma linguagem de programação moderna e concisa, projetada para ser segura e interoperável com Java. Ela é amplamente utilizada no desenvolvimento de aplicativos Android, oferecendo uma sintaxe mais clara e recursos que tornam o código mais expressivo. Kotlin compila para bytecode Java, permitindo que você utilize bibliotecas Java existentes em seus projetos. Além disso, ela suporta programação funcional e orientada a objetos, oferecendo flexibilidade para diferentes estilos de desenvolvimento.
+
 ## Android Studio 🏆
-O Excel é um programa de planilhas eletrônicas que organiza dados em linhas e colunas, facilitando cálculos, análises e visualização de informações. Ele é amplamente utilizado para gerenciar orçamentos, criar gráficos, analisar dados financeiros e muito mais. Com o Excel, você pode automatizar tarefas, criar relatórios personalizados e tomar decisões mais informadas.
+O Android Studio é a ferramenta oficial para criar aplicativos Android. Ele oferece um ambiente de desenvolvimento completo e intuitivo, com recursos como:
+
+Editor de código inteligente: Auxilia na escrita de código, sugerindo autocompletar, refatorando e identificando erros.
+Emulador visual: Permite testar seus apps em diversos dispositivos virtuais antes de publicá-los.
+Layout editor: Facilita a criação de interfaces gráficas arrastando e soltando elementos.
+Integração com outras ferramentas: Permite trabalhar com sistemas de controle de versão, como o Git, e com bibliotecas externas.
 
 ## Claude  🏆
 O Claude AI é um modelo de linguagem de inteligência artificial avançado, similar ao ChatGPT, mas com algumas diferenças. Ele é capaz de gerar textos, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder a suas perguntas de forma informativa. Em resumo, o Claude AI é um assistente virtual inteligente que pode te ajudar em diversas tarefas.
