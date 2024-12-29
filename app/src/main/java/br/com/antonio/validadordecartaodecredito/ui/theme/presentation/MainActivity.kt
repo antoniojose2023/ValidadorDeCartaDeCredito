@@ -83,7 +83,6 @@ fun createMain(paddingValues: PaddingValues){
             keyboardOptions = KeyboardOptions(
                 keyboardType = KeyboardType.Number
             )
-
         )
         
         Button(
@@ -104,11 +103,12 @@ fun createMain(paddingValues: PaddingValues){
             Text(text = "Validar")
         }
 
+
         Text(
             text = "$respostaCartao",
             modifier = Modifier.align(Alignment.CenterHorizontally)
-        )
 
+        )
     }
 
 }
